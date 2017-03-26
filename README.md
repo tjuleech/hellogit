@@ -1,0 +1,2 @@
+# hellogit
+Test git fuction
